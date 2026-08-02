@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-uyoajq.indcuan.cfd/sitemap.xml
